@@ -1,3 +1,5 @@
+# MIT License
+# Copyright (c) 2025 Benb0jangles
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SH110X.h>
